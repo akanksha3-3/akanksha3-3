@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I have recently completed my Master’s in Bioinformatics, and I am deeply fascinated by the intersection of biology, data, and technology. My journey involves exploring how we can apply computational tools to understand complex biological systems and drive innovations in healthcare and life sciences.
+I have completed my Master’s in Bioinformatics, and I am deeply fascinated by the intersection of biology, data, and technology. My journey involves exploring how we can apply computational tools to understand complex biological systems and drive innovations in healthcare and life sciences.
 
 I enjoy working on problems that blend:
 - 🧬 Biological data analysis (especially NGS & genomics)
