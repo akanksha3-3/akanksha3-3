@@ -14,14 +14,6 @@ This GitHub space is where I document and share my learning journey through code
 
 ---
 
-## 🌱 I am currently learning:
-- Advanced ML techniques for biological datasets  
-- Containerized workflows with Docker  
-- Real-time dashboarding with Streamlit, PowerBI  
-- Genomics tools and APIs
-
----
-
 ## 🤝 Let Us Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/akanksha-waghamode-25aa9724a/)
 - 📧 Email: akankshawaghamode2001@gmail.com
