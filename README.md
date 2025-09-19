@@ -19,5 +19,3 @@ This GitHub space is where I document and share my learning journey through code
 - 📧 Email: akankshawaghamode2001@gmail.com
 
 ---
-
-![Akanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akanksha3-3&show_icons=true&theme=gruvbox)
