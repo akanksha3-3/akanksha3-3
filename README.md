@@ -1,6 +1,6 @@
 # Hi there, I'm Akanksha Waghamode! 👋
 
-## 🧬 Bioinformatics Graduate Student | Machine Learning Enthusiast | Drug Discovery Researcher
+## 🧬 Bioinformatics Graduate Student | Machine Learning Enthusiast | Drug Discovery Researcher | NGS 
 
 Welcome to my GitHub profile! I'm a passionate Bioinformatics graduate student with a strong foundation in computational biology, machine learning, and data analysis. Currently pursuing my Masters in Bioinformatics while actively working on cutting-edge research in drug discovery and predictive modeling.
 
