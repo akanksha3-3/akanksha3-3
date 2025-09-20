@@ -56,7 +56,7 @@ Built an end-to-end ML pipeline using **Ames Housing Dataset** (2,932 records, 8
 - **Best Performance**: XGBoost with cross-validation
 - **Impact**: Delivered actionable insights for real estate price prediction
 
-### 📧 Automated News Aggregator
+### 📧 [Automated News Aggregator](https://github.com/akanksha3-3/automated-email-based-news-aggregator)
 Developed Python script using **BeautifulSoup** for web scraping
 - **Sources**: BBC and NDTV websites
 - **Output**: Daily HTML email digest
