@@ -50,6 +50,12 @@ Currently developing **Machine Learning-based QSAR models** and **molecular dock
 
 ## 🚀 Featured Projects
 
+### 🧬 [Biomarker Classification Pipeline](https://github.com/akanksha3-3/biomarker-classification-pipeline)
+Built an end-to-end ML pipeline for breast cancer biomarker classification (569 samples, 30 features, 90:10 imbalance)
+- **Models**: Logistic Regression, Random Forest, XGBoost with augmentation (SMOTE, ADASYN, Random Oversampling)
+- **Best Performance**: Logistic Regression + Random Oversampling (98.89% ROC-AUC, 100% Recall)
+- **Impact**: Achieved perfect sensitivity for medical diagnosis with comprehensive cross-validation
+
 ### 🏠 [House Price Prediction Model](https://github.com/akanksha3-3/ames-house-price-prediction)
 Built an end-to-end ML pipeline using **Ames Housing Dataset** (2,932 records, 82 features)
 - **Models**: Linear Regression, Random Forest, XGBoost
