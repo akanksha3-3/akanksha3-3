@@ -50,7 +50,7 @@ Currently developing **Machine Learning-based QSAR models** and **molecular dock
 
 ## 🚀 Featured Projects
 
-### 🧬 [Biomarker Classification Pipeline](https://github.com/akanksha3-3/biomarker-classification-pipeline)
+### 🧬 [Breast Cancer Classification Pipeline](https://github.com/akanksha3-3/biomarker-classification-pipeline)
 Built an end-to-end ML pipeline for breast cancer biomarker classification (569 samples, 30 features, 90:10 imbalance)
 - **Models**: Logistic Regression, Random Forest, XGBoost with augmentation (SMOTE, ADASYN, Random Oversampling)
 - **Best Performance**: Logistic Regression + Random Oversampling (98.89% ROC-AUC, 100% Recall)
