@@ -56,6 +56,12 @@ Built an end-to-end ML pipeline for breast cancer biomarker classification (569 
 - **Best Performance**: Logistic Regression + Random Oversampling (98.89% ROC-AUC, 100% Recall)
 - **Impact**: Achieved perfect sensitivity for medical diagnosis with comprehensive cross-validation
 
+### 🔬 [Synthetic Data Augmentation for Imbalanced Classification](https://github.com/akanksha3-3/synthetic-data-augmentation-for-imbalanced-classification)
+Developed and benchmarked 5 oversampling techniques for highly imbalanced datasets (500 samples, 20 features, 8.4:1 ratio)
+- **Methods**: SMOTE, Borderline-SMOTE, ADASYN, Statistical Gaussian, Noise Injection with quality validation
+- **Best Performance**: All methods achieved perfect metrics (100% ROC-AUC, 100% Recall, 100% F1-Score)
+- **Impact**: Improved baseline recall from 27% to 100% with K-S test validation (p-value > 0.48) and excellent correlation preservation
+
 ### 🏠 [House Price Prediction Model](https://github.com/akanksha3-3/ames-house-price-prediction)
 Built an end-to-end ML pipeline using **Ames Housing Dataset** (2,932 records, 82 features)
 - **Models**: Linear Regression, Random Forest, XGBoost
